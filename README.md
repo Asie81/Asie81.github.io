@@ -1,2 +1,1 @@
-# Asie81.github.io
-elki
+<link rel="altenate" href="elka.html">
