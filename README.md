@@ -1,1 +1,1 @@
-<link rel="altenate" href="elka.html">
+<link rel="alternate" href="elka.html">
